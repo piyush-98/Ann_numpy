@@ -1,2 +1,4 @@
 # Ann_numpy
 ## Implemention of neural networks with only numpy with no external library or fuction used
+ANN- Artificial Neural Networks, also called Vanilla neural networks is a deep learning approach consisting of multiple layers of perceptrons(neurons). They form the basic structures of deep learning and are used to imitate human pattern detection powers. It follows the basic equations y=wx+b where y is the output, w is the weight of that preceptron, x is the input(i.e. the output of a perceptron from a previous layer) and b are the biases. 
+Any neural network is not a random code. It sure does not require us to specify the algorithm to solve a problem, but their is a math to the process used to device the solution itself and that has been implemented in the following code through python library numpy.
